@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Babi Drummond &#x1f996</h1>
+<h1 align="center">Hi, I'm Babi Drummond 🌟</h1>
 
 <p>I'm a junior software engineer with a background in cybersecurity, Human-Computer Interaction (HCI) and Web3.</p>
 <p>My professional experience in software development includes building automations and APIs in Python, developing games in Unity (C#), and working briefly with Java and TypeScript. I've also tinkered with Arduino, creating small projects just for fun.</p>
@@ -71,6 +71,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grebechi/grebechi/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/grebechi/grebechi/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+<br>
 
 <!--profile views-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babidrummond&label=Profile%20views&color=0e75b6&style=flat" alt="babidrummond" /> </p>
