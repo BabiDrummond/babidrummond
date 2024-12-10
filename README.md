@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Babi Drummond 🌟</h1>
 
-<p>I'm a junior software engineer, with a background in cybersecurity and Human-Computer Interaction (HCI).</p>
+<p>I'm a passionate software engineer, with a background in cybersecurity, Human-Computer Interaction (HCI) and Web3.</p>
 <p>My professional experience in software development includes building automations and APIs in Python, developing games in Unity (C#), and working briefly with Java and TypeScript. I've also tinkered with Arduino, chatbots and augmented reality (AR), creating personal projects just for fun.</p>
 <p>Recently, I've been diving into full-stack development, exploring how to build applications using Python (Django) and React.js. Stay tuned—I'll be sharing new projects here soon!</p>
 
