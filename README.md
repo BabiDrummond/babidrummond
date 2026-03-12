@@ -1,10 +1,12 @@
 <h1 align="center">Hi, I'm Babi Drummond 🌟</h1>
 
-<p>I’m a software engineer passionate about building meaningful tech — from backend systems and APIs to immersive game experiences.</p>
+<p>Software Engineer focused on building reliable backend systems and meaningful digital experiences.</p>
 
-<p>I have experience across diverse industries, like fintech, Oil & Gas, and Web3, working with Python, Java, C#, TypeScript, Unity and cybersecurity. Academically, I hold a Master’s in Computer Science, with research in Human-Computer Interaction. I’ve also explored Arduino, chatbots, and AR in personal projects — always learning, always tinkering.</p>
+<p> Currently working with Java in scalable production environments, while exploring systems programming in C and low-level concepts through the 42 School curriculum. My background also includes game development with Unity and contributions to Web3 and security-related projects.</p>
 
-<p>Lately, I’ve been diving into web development and programming in C. New projects coming soon — stay tuned! 🚀</p>
+<p>I hold a Master’s degree in Computer Science, with research in Human-Computer Interaction and inclusive technology design. I enjoy solving complex problems, learning new paradigms, and turning ideas into working software.</p>
+
+<p>Always building. Always learning.</p>
 
 <br>
 <h4>Connect with me:</h4>
